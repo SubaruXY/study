@@ -11,4 +11,4 @@
 ## Coding
 <br>https://docs.openvino.ai/latest/notebooks/202-vision-superresolution-image-with-output.html √ 0620-0625.2022
 <br>https://www.tensorflow.org/tutorials/keras/classification 0704- ?.2022 studying now
-<br>try to find detection model,find https://github.com/facebookresearch/Detectron this but fail to download the dataset it used in coco https://cocodataset.org/#download, but find another tool used this coco dataset named https://voxel51.com/docs/fiftyone/ . trying 0706.2022
+<br>try to find detection model,find https://github.com/facebookresearch/Detectron this but fail to download the dataset it used in coco https://cocodataset.org/#download, but find another tool used this coco dataset named https://voxel51.com/docs/fiftyone/ . trying 0706.2022 Detection1 is out of time, try Detection 2.
